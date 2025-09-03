@@ -40,6 +40,8 @@ export default function FrontendPage() {
           flex flex-col justify-center gap-9
           px-6 md:px-20 py-10 md:py-0
           mt-20 md:mt-0
+          md:max-h-none
+          max-h-[45vh] overflow-y-auto   /* 🔹 tambahkan ini untuk mobile */
         "
       >
         {projects.map((project) => {
