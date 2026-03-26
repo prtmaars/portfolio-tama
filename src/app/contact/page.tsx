@@ -41,7 +41,7 @@ export default function Contact() {
       <div className="relative z-10 flex flex-wrap justify-center gap-6 md:gap-8 mb-12">
         {[
           {
-            href: "https://www.instagram.com/_pratamars/",
+            href: "https://instagram.com/tamakusuma_/",
             src: "/instagram-2016-5.svg",
             alt: "Instagram",
           },
